@@ -1,0 +1,15 @@
+<mule xmlns="http://www.mulesoft.org/schema/mule/core"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core
+      http://www.mulesoft.org/schema/mule/core/current/mule.xsd">
+    
+    <!-- Configure HTTP listener to accept incoming requests -->
+    <http:listener-config name="HTTP_Listener_config" host="0.0.0.0" port="8081" doc:name="HTTP Listener Configuration"/>
+
+    <!-- Define your Mule flow -->
+    <flow name="mainFlow">
+        <http:listener config-ref="HTTP_Listener_config" path="/api/products" doc:name="HTTP"/>
+        <!-- Add components and processing logic here -->
+    </flow>
+
+</mule>

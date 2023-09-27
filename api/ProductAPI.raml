@@ -1,0 +1,23 @@
+#%RAML 1.0
+title: Product API
+version: 1.0
+baseUri: http://api.example.com/products
+
+/products:
+  get:
+    description: Retrieve a list of products
+    responses:
+      200:
+        body:
+          application/json:
+            example: |
+              [
+                {
+                  "name": "Product 1",
+                  "price": 19.99
+                },
+                {
+                  "name": "Product 2",
+                  "price": 29.99
+                }
+              ]
