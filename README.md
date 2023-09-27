@@ -76,4 +76,12 @@ We'll host the HTML, CSS, and JavaScript files on a web server. This can be your
 **Deploying the Java Component**
 For the Java component, we'll package it as a JAR file and include it in our application's classpath. *DIY
 
+Last but not least, if eveything went well our application should be getting products as specified from the e-com platform. 
+
+**Conclusion**
+
+In conclusion, this demonstration illustrates how MuleSoft API integration can seamlessly empower your development workflow, whether you're working with Java, HTML, CSS, or JavaScript other supported languages or frameworks. It provides a comprehensive overview of how MuleSoft can enhance the development workflow in a real-world use case.
+
+
+
 
