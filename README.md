@@ -15,7 +15,13 @@ web application that integrates with an e-commerce platform to retrieve product 
 Before we dive into the technical details, let's ensure our development environment is ready. *In this fictional example We are using Visual Studio Code (VS Code) with Java Development Kit (JDK) and Node.js.*
 
 
-**🗂File/Folder Structure**
+**API Eploration**
+Explore the API documentation provided by the e-commerce platform. (SHOPYFY) or others. "This documentation defines the endpoints, request/response structures, and authentication methods."
+
+
+**🗂VS Code File/Folder Structure**
+The necessary folders and files for our integration.
+
 ```ProductIntegration/                 (Root folder for your project)
 │
 ├── public/                         (Publicly accessible web assets)
@@ -35,6 +41,14 @@ Before we dive into the technical details, let's ensure our development environm
 │
 ├── .gitignore                       (Git ignore file)
 ├── README.md                        (Project documentation)
+
+```
+
+
+**HTML and CSS**
+
+"We'll start with the frontend. Here's our HTML and CSS code for the product display page."
+
 
 
 
