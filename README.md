@@ -63,3 +63,17 @@ Next, we have JavaScript code to fetch product data from the e-commerce API and 
 Now, let's dive into the Java integration. We'll use Java to create a custom component that interacts with the targeted e-commerce API or can be better customized with APIs of your choice.
 
 ![View Code](https://github.com/faradeen-ja/MuleSoftJavaAPIDemo/tree/d078bb46c1cf08037aab3dc6db68adc4b1674752/resources)
+
+
+
+**Deploy Time**
+**Development/Production**
+With our code ready and if no bugs, we should be able to test in development enviroment as well as shipping it in production. 
+
+**Deploying the Frontend**
+We'll host the HTML, CSS, and JavaScript files on a web server. This can be your organization's server or a cloud-based hosting service. (GitHub static pages) or so. 
+
+**Deploying the Java Component**
+For the Java component, we'll package it as a JAR file and include it in our application's classpath. *DIY
+
+
