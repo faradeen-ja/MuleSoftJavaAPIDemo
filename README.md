@@ -60,4 +60,6 @@ Next, we have JavaScript code to fetch product data from the e-commerce API and 
 
 
 **Java Integration**
-Now, let's dive into the Java integration. We'll use Java to create a custom component that interacts with the targeted e-commerce API of your choice. 
+Now, let's dive into the Java integration. We'll use Java to create a custom component that interacts with the targeted e-commerce API or can be better customized with APIs of your choice.
+
+![View Code](https://github.com/faradeen-ja/MuleSoftJavaAPIDemo/tree/d078bb46c1cf08037aab3dc6db68adc4b1674752/resources)
