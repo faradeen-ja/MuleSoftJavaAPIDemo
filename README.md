@@ -1,5 +1,7 @@
 # MuleSoft API Integration Demo
 Demonstration of MuleSoft's API integration using Java/Anypoint Platform/Studio
+![Deployed](https://github.com/faradeen-ja/MuleSoftJavaAPIDemo/blob/544405559677a3e8f88356cddc5aaad2a02db193/1FD5C787-0187-4F25-B3A7-0CFEDB8F40BD.jpeg)
+
 ## ▶️ Overview
 In This Demo we are utilizing MuleSoft API integration solutions within a development environment  'Visual Studio Code' (VS Code). In this scenario, we'll create a practical use case for integrating with an e-commerce platform sending GET req using Java, HTML, CSS, and JavaScript.
 
