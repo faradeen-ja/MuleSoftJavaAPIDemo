@@ -50,5 +50,5 @@ The necessary folders and files for our integration.
 "We'll start with the frontend. Here's our HTML and CSS code for the product display page."
 
 
-
+![The code](https://github.com/faradeen-ja/MuleSoftJavaAPIDemo/tree/622845bea268336877fa10c245ac454caa331b8f/public)
 
