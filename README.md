@@ -83,5 +83,8 @@ Last but not least, if eveything went well our application should be getting pro
 In conclusion, this demonstration illustrates how MuleSoft API integration can seamlessly empower your development workflow, whether you're working with Java, HTML, CSS, or JavaScript other supported languages or frameworks. It provides a comprehensive overview of how MuleSoft can enhance the development workflow in a real-world use case.
 
 
+***Disclosures***
 
+*With this modification, the MuleSoft flow will respond with the simulated product data when a request is made to the /api/products endpoint.
+***In a more realistic scenario***, the product data would be fetched from an external API or a database. like ecom API for our instance of this app-- To demonstrate this, you would need to set up an external data source and configure your MuleSoft flow to retrieve data from that source. For example*
 
