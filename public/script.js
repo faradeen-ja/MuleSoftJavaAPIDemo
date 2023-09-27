@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const productList = document.getElementById("product-list");
 
     // Replace 'http://your-mulesoft-api-url/api/products' with your MuleSoft API endpoint
-    const apiUrl = "https://anypoint.mulesoft.com/exchange/0f675801-3c11-4aca-acbf-f9fd38abd3cd/productapi/1.0.0";
+    const apiUrl = process.env.URI;
 
     fetch(apiUrl)
         .then((response) => response.json())
