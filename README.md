@@ -16,7 +16,7 @@ or the simulated product data when a request is made to the /api/products endpoi
 Before we dive into the technical details, let's ensure our development environment is ready. *In this fictional example We are using Visual Studio Code (VS Code) with Java Development Kit (JDK) and Node.js.*
 
 
-**API Eploration**
+**API Exploration**
 If we are not simulating API requets via Mule Flows the Explore the API documentation provided by the e-commerce platform. (SHOPYFY) or others. "This documentation defines the endpoints, request/response structures, and MuleSoft Flow internal authentication methods.
 
 
