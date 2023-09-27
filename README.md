@@ -9,7 +9,8 @@ In This Demo we are utilizing MuleSoft API integration solutions within a develo
 - CloudHub Deployment
   
 **📟 Use Case Overview**
-web application that integrates with an e-commerce platform to retrieve product data and display it on your website."
+web application that integrates with an e-commerce platform to retrieve product data and display it on your website externally- 
+or the simulated product data when a request is made to the /api/products endpoint on via Mulesoft flows internally. 
 
 **💻Setup and Environment**
 Before we dive into the technical details, let's ensure our development environment is ready. *In this fictional example We are using Visual Studio Code (VS Code) with Java Development Kit (JDK) and Node.js.*
