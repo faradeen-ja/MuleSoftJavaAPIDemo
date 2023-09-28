@@ -19,7 +19,7 @@ Before we dive into the technical details, let's ensure our development environm
 
 
 **API Exploration**
-If we are not simulating API requets via Mule Flows the Explore the API documentation provided by the e-commerce platform. (SHOPYFY) or others. "This documentation defines the endpoints, request/response structures, and MuleSoft Flow internal authentication methods.
+If we are not simulating API requets via Mule Flows, then Explore the API documentation provided by the e-commerce platform. (SHOPYFY) or others. "This documentation defines the endpoints, request/response structures, and MuleSoft Flow internal authentication methods.
 
 
 **🗂VS Code File/Folder Structure**
